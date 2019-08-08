@@ -16,7 +16,7 @@ which I've altered to my needs and added a custom jquery-ui interface.
 
 You can see a video testing the web interface here:
 
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=T_TcUBbF5Wc/0.jpg)](https://www.youtube.com/watch?v=T_TcUBbF5Wc "Siglent SDG1025 web interface")
+[https://www.youtube.com/watch?v=T_TcUBbF5Wc](https://www.youtube.com/watch?v=T_TcUBbF5Wc)
 
 ## Prerequisites
 To use the web interface you need to install some things first:
