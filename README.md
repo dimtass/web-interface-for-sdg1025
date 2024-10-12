@@ -2,7 +2,7 @@ SDG1025 control web interface
 ----
 
 This code is part of this blog post here:
-[https://www.stupid-projects.com/write-python-scripts-for-your-siglent-sdg1025](https://www.stupid-projects.com/write-python-scripts-for-your-siglent-sdg1025)
+[https://www.stupid-projects.com/posts/write-python-scripts-for-your-siglent-sdg1025](https://www.stupid-projects.com/posts/write-python-scripts-for-your-siglent-sdg1025)
 
 This is a web interface to control a very basic functionality of the SDG1025
 via a web interface. The web application is made using `flask`, `wtforms`,
